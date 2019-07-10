@@ -1,8 +1,8 @@
 #################################################################################################################################################
 #Authorship of each file :- 
-#		Source code          - 			Shireen
+#		Source code          - 			Radhika/Shireen
 # 		BASELINES            - 			Radhika
-#		human annotated.csv  - 	        Radhika
+#		human annotated.csv  - 	        	Radhika
 #		ORIGINS              -			Radhika
 #		INSTALLS             - 			Shireen
 #		  
